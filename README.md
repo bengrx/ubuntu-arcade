@@ -1,7 +1,6 @@
 # ubuntu-arcade
 
-Installs retroarch, emulationstation and a bunch of emulators on Ubuntu 16.04
-Makes moving your roms and configuration between machines easy :)
+Installs retroarch, emulationstation and a bunch of emulators on Ubuntu 16.04 and makes moving your roms and configuration between machines easy :)
 
 ##### Usage:
 `./configure.sh`
